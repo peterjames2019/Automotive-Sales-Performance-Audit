@@ -171,7 +171,7 @@ LIMIT 100;
 | Thomas Morrow     | 2024      | 2    | $ 526,227,297  | 2            |
 | Thomas Morrow     | 2
 ## 📊 Interactive Dashboard
-You can view the final interactive visualization here:  
+You can view the final interactive visualization which **contained MORE INSIGHTS** here:  
 👉 **[https://public.tableau.com/views/GlobalAutomotiveSalesPerformanceAudit/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
 
 ## 💡 Key Insights
