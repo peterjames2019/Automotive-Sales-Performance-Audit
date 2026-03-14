@@ -10,7 +10,8 @@ This project is a comprehensive end-to-end audit of over **1 million automotive 
 
 ## 📂 Project Structure
 1.  [**SQL LOAD:**](./SQL%20LOAD) Scripts for schema creation and importing the raw 1M+ row dataset.
-2.  [**Project SQL:**](./Project%20SQL) * `Cumulative_sales_ranking`: Career-long leaderboard by revenue.
+2.  [**Project SQL:**](./Project%20SQL)
+    * `Cumulative_sales_ranking`: Career-long leaderboard by revenue.
     * `Yearly_sales_ranking`: Year-over-year performance shifts.
     * `rpt_salesperson_consistency`: Identifying "Elite" reps who hit the Top 10 multiple times across different years.
 
