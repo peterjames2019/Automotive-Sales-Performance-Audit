@@ -178,3 +178,6 @@ You can view the final interactive visualization which **contained MORE INSIGHTS
 ## 💡 Key Insights
 * **Consistency over Spikes:** Identified top-performing agents who maintained Top 10 status across economic shifts.
 * **Data Scale:** Successfully managed and queried a dataset exceeding GitHub's file size limits (137MB+).
+
+## Contact
+* **Portfolio** [https://peterjames2019.github.io/]
